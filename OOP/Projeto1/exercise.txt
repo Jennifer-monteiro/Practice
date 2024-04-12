@@ -1,0 +1,22 @@
+Shape Calculator:
+Design classes for different shapes like Circle, Rectangle, and Triangle. Implement methods to calculate the area and perimeter of each shape.
+
+Bank Account Management:
+Develop a BankAccount class with attributes such as account number, balance, and owner's name. Implement methods to deposit, withdraw, and check balance.
+
+Todo List:
+Create a Task class to represent a task in a todo list. Each task should have attributes like title, description, and status. Implement methods to mark a task as completed and display task information.
+
+Library Management System:
+Design classes for a simple library management system. Create classes like Book, Library, and Member. Implement methods to add books to the library, borrow books, and return books.
+
+Car Rental System:
+Develop classes to represent cars in a rental system. Design classes like Car, RentalAgency, and Customer. Implement methods to rent a car, return a car, and calculate rental fees.
+
+Student Management System:
+Create a Student class to represent a student. Include attributes like name, roll number, and marks. Implement methods to calculate the grade based on marks and display student information.
+
+Simple Game:
+Design classes for a simple game. Create classes like Player, Enemy, and Game. Implement methods for player movement, enemy behavior, and game logic.
+
+These exercises cover a range of OOP concepts such as class design, inheritance, encapsulation, and polymorphism. They provide a practical way to apply OOP principles in Python. Feel free to choose any exercise and start practicing!
