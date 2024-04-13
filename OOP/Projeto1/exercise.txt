@@ -1,11 +1,4 @@
-Shape Calculator:
-Design classes for different shapes like Circle, Rectangle, and Triangle. Implement methods to calculate the area and perimeter of each shape.
 
-Bank Account Management:
-Develop a BankAccount class with attributes such as account number, balance, and owner's name. Implement methods to deposit, withdraw, and check balance.
-
-Todo List:
-Create a Task class to represent a task in a todo list. Each task should have attributes like title, description, and status. Implement methods to mark a task as completed and display task information.
 
 Library Management System:
 Design classes for a simple library management system. Create classes like Book, Library, and Member. Implement methods to add books to the library, borrow books, and return books.
