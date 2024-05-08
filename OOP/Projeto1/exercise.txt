@@ -1,7 +1,5 @@
 
 
-Library Management System:
-Design classes for a simple library management system. Create classes like Book, Library, and Member. Implement methods to add books to the library, borrow books, and return books.
 
 Car Rental System:
 Develop classes to represent cars in a rental system. Design classes like Car, RentalAgency, and Customer. Implement methods to rent a car, return a car, and calculate rental fees.
@@ -13,3 +11,24 @@ Simple Game:
 Design classes for a simple game. Create classes like Player, Enemy, and Game. Implement methods for player movement, enemy behavior, and game logic.
 
 These exercises cover a range of OOP concepts such as class design, inheritance, encapsulation, and polymorphism. They provide a practical way to apply OOP principles in Python. Feel free to choose any exercise and start practicing!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
