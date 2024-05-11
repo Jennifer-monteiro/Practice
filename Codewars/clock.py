@@ -14,3 +14,14 @@ Input constraints:
 0 <= m <= 59
 0 <= s <= 59 """
 
+def past(h,m,s):
+    
+    minutes = 60000
+    horas = 3600000
+    seconds = 1000
+
+    result =  h * horas + m * minutes + s * seconds
+
+    return result
+
+print(past(0,1,1))
